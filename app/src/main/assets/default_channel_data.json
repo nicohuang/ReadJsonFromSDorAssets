@@ -1,0 +1,99 @@
+{
+  "start_tab": [
+    {
+      "icon": "nav_icon_home_of",
+      "selected_icon":"nav_icon_home_on",
+      "name": "首页",
+      "children": [
+        {
+          "name": "头条",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "体育",
+          "content": "page://main_web?url=http://www.163.com"
+        },
+        {
+          "name": "热点",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "财经",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "娱乐",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "军事",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "数码",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "教育",
+          "content": "page://main_web?url=http://www.baidu.com"
+        }
+      ]
+    },
+    {
+      "icon": "nav_icon_message_of",
+      "selected_icon":"nav_icon_message_on",
+      "name": "消息",
+      "children": [
+        {
+          "name": "图片",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "汽车",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "居家",
+          "content": "page://main_web?url=http://www.baidu.com"
+        }
+      ]
+    },
+    {
+      "icon": "nav_icon_find_of",
+      "selected_icon":"nav_icon_find_on",
+      "name": "发现",
+      "children": [
+        {
+          "name": "房产",
+          "content": "page://main_web?url=http://www.baidu.com"
+        },
+        {
+          "name": "时尚",
+          "content": "page://main_web?url=http://www.baidu.com"
+        }
+      ]
+    },
+    {
+      "icon": "nav_icon_app_of",
+      "selected_icon":"nav_icon_app_on",
+      "name": "应用",
+      "children": [
+        {
+          "name": "应用",
+          "content": "page://main_web?url=http://www.baidu.com"
+        }
+      ]
+    },
+    {
+      "icon": "nav_icon_user_of",
+      "selected_icon":"nav_icon_user_on",
+      "name": "我的",
+      "children": [
+        {
+          "name": "我的",
+          "content": "page://main_web?url=http://www.baidu.com"
+        }
+      ]
+    }
+  ]
+}
